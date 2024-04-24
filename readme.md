@@ -67,7 +67,7 @@ class CustomTableModel extends Model {
     ];
 
     /**
-     * Disable created_at and update_at columns, unless you have those.
+     * Disable created_at and updated_at columns, unless you have those.
      */
     public $timestamps = false;
 
